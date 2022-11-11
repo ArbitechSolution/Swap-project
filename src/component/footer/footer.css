@@ -1,0 +1,38 @@
+.footer-bg{
+    background-color: #27262C;
+}
+
+.list li{
+    list-style: none;
+    padding-bottom: 5px;
+}
+.ul-h5{
+    color: #9a6aff;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+.list li a{
+    color: white !important;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    text-decoration: none;
+}
+
+.ul-a{ 
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    text-decoration: none;
+    color: #DC8E32 !important;
+}
+.icon-bg{
+    color: #B8ADD2;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.list li a:hover{
+    text-decoration: underline;
+}
